@@ -1,3 +1,8 @@
+# 動作イメージ
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/4949982/47258571-fa779c00-d4d7-11e8-8673-a7b6cf29c9ad.png">
+</div>
+
 # JupyterLabインストール
 ```console
 $ conda install jupyterlab
