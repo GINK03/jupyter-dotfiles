@@ -15,4 +15,7 @@ $ jupyter labextension install jupyterlab_vim # vimのバインディング
 $ jupyter lab
 ```
 
+# Indent幅の変更
+
+Settings -> Advanced Setting Editorから、`tabSize`の大きさや`insetSpace`などが編集できる 
 
