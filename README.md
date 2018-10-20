@@ -19,3 +19,6 @@ $ jupyter lab
 
 Settings -> Advanced Setting Editorから、`tabSize`の大きさや`insetSpace`などが編集できる 
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/4949982/47258747-bf2a9c80-d4da-11e8-822f-7f2326ae1fa9.png">
+</div>
