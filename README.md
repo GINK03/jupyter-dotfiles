@@ -32,3 +32,12 @@ Verify password:
 Out[2]: 'sha1:67c9e60bb8b6:9ffede0825894254b2e042ea597d771089e11aed'
 ```
 作成したhashは.jupyterの配下のパスワードに入れると認証に利用できる
+
+# color hack
+色を以下のファイルを変更することで、変更できる。
+`/anaconda3/share/jupyter/lab/themes/\@jupyterlab/theme-dark-extension/index.css`
+(デフォルトの色合いはエグいので、おとなしめに変更するなど)
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/4949982/47275798-71eb1f80-d5ed-11e8-9f32-db71eb818aaa.png">
+</div>
