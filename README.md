@@ -22,3 +22,13 @@ Settings -> Advanced Setting Editorから、`tabSize`の大きさや`insetSpace`
 <div align="center">
   <img src="https://user-images.githubusercontent.com/4949982/47258747-bf2a9c80-d4da-11e8-822f-7f2326ae1fa9.png">
 </div>
+
+# jupyter labこのコマンドで、password hashを作成する
+```console
+In [1]: from notebook.auth import passwd
+In [2]: passwd()
+Enter password:
+Verify password:
+Out[2]: 'sha1:67c9e60bb8b6:9ffede0825894254b2e042ea597d771089e11aed'
+```
+作成したhashは.jupyterの配下のパスワードに入れると認証に利用できる
