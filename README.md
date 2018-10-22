@@ -41,3 +41,11 @@ Out[2]: 'sha1:67c9e60bb8b6:9ffede0825894254b2e042ea597d771089e11aed'
 <div align="center">
   <img src="https://user-images.githubusercontent.com/4949982/47275798-71eb1f80-d5ed-11e8-9f32-db71eb818aaa.png">
 </div>
+コメントを灰色に
+```
+--jp-mirror-editor-comment-color: #aeaeae;
+```
+ストリング（リテラル）をオレンジに
+```
+--jp-mirror-editor-string-color: #D39838;
+```
